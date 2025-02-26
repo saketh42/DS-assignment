@@ -74,8 +74,3 @@ python power_plant_analysis.py
 
 ## License
 This project is licensed under the MIT License.
-
-## Author
-[Your Name]
-
-# DS-assignment
